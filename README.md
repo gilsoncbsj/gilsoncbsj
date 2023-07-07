@@ -5,5 +5,3 @@
 <img src="https://github-readme-stats.vercel.app/api?username=gilsoncbsj&show_icons=true&rank_icon=github&theme=algolia" />
 
 
-![Snake animation](https://github.com/gilsoncbsj/gilsoncbsj/blob/main/.github/workflows/cobrinha.yml)
-
